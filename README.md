@@ -1,4 +1,7 @@
-Video Streaming Application
+Chill-Fill App
+Video Streaming platform
+
+
 Overview
 This project is a video streaming web application built using React.js and Material-UI. It leverages RapidAPI to fetch video data. The application allows users to add videos, categorize them, and search for videos by ID, search term, or channel.
 
